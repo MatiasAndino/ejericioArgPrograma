@@ -6,11 +6,10 @@ import Caracteristicas from "./components/Caracteristicas";
 
 function App() {
   return (
-    <div className="container">
-      <div>
+    <>
         <NavBar />
-      </div>
-      <div className="row">
+    <div className="container">
+      <div className="row mt-3">
         <div className="row col-lg-9">
           <Container />
         </div>
@@ -22,6 +21,7 @@ function App() {
         <Caracteristicas />
       </div>
     </div>
+    </>
   );
 }
 

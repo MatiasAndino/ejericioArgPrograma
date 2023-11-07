@@ -2,7 +2,7 @@
 
 const Caracteristicas = () => {
     return (
-        <div className="w-75 p-3">
+        <div className="w-75">
             <p>Spidey y sus Sorprendentes Amigos recorren la ciudad en busca de aventuras!</p>
             <p>Cuando aparece un problema, cada vehículo&nbsp;&nbsp;puede lanzar un disco web presionando la cabeza del personaje para mantener el peligro bajo control.&nbsp;</p>
             <p>Los vehículos&nbsp;vienen con 2 discos cada uno, que se pueden guardar en el capó del automóvil para divertirse mientras viaja.&nbsp;</p>
